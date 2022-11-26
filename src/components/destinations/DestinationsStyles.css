@@ -38,7 +38,7 @@
     .img-container {
         --num-cols: 2;
         --row-height: 200px;
-        --grap: .5rem
+        --gap: .5rem
     }
 
     .span-3 {

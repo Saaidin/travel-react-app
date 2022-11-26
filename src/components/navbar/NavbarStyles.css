@@ -16,6 +16,7 @@
 
 .nav-menu {
     display: flex;
+    cursor: pointer;
 }
 
 li {
@@ -24,7 +25,6 @@ li {
 
 .hamburger {
     display: none;
-    /* padding: 1rem; */
 }
 
 .mobile-menu {
